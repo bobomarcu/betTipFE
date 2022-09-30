@@ -63,9 +63,10 @@
 
 }
 .fixuture{
-    text-align: center;
+    display: flex;
+    justify-content: space-between;
     padding: 10px;
     background-color: rgb(23, 23, 23);
-    margin: 10px;
     border-radius: 10px;
+    margin:10px
 }

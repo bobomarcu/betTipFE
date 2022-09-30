@@ -113,57 +113,97 @@ export default function ContentHome(){
                     <h1>Past Fixtures</h1>
                     <div className="listFixuresRight">
                         <div className="fixuture">
-                            <h2> 0  - 2</h2>
-                            <h3>Real  Barca</h3>
-                            <p>28.09.2022</p>
-                            <p><b>Tip:</b> x2</p>
-                            <p>Status: WON</p>
+                            <div className="home_team">
+                                <p style={{fontSize:"10px"}}>Home</p>
+                                <p><b>Real</b></p>
+                                <h3>2</h3>
+                            </div>
+                            <br></br>
+                            <div>
+                                <br></br>
+                                <p>-</p>
+                                <br></br>
+                                <p style={{fontSize:"10px"}}>28.09.2022</p>
+                            </div>
+                            <div className="away_team">
+                                <p style={{fontSize:"10px"}}>Away</p>
+                                <p><b>Atletico</b></p>
+                                <h3>2</h3>
+                            </div>
                         </div>
                         <div className="fixuture">
-                            <h2> 0  - 2</h2>
-                            <h3>Real  Barca</h3>
-                            <p>28.09.2022</p>
-                            <p><b>Tip:</b> x2</p>
-                            <p>Status: WON</p>
+                            <div className="home_team">
+                                <p style={{fontSize:"10px"}}>Home</p>
+                                <p><b>Real</b></p>
+                                <h3>2</h3>
+                            </div>
+                            <br></br>
+                            <div>
+                                <p>-</p>
+                                <br></br>
+                                <p style={{fontSize:"10px"}}>28.09.2022</p>
+                            </div>
+                            <div className="away_team">
+                                <p style={{fontSize:"10px"}}>Away</p>
+                                <p><b>Atletico</b></p>
+                                <h3>2</h3>
+                            </div>
                         </div>
                         <div className="fixuture">
-                            <h2> 0  - 2</h2>
-                            <h3>Real  Barca</h3>
-                            <p>28.09.2022</p>
-                            <p><b>Tip:</b> x2</p>
-                            <p>Status: WON</p>
-                            <p>Status: WON</p>
+                            <div className="home_team">
+                                <p style={{fontSize:"10px"}}>Home</p>
+                                <p><b>Real</b></p>
+                                <h3>2</h3>
+                            </div>
+                            <br></br>
+                            <div>
+                                <p>-</p>
+                                <br></br>
+                                <p style={{fontSize:"10px"}}>28.09.2022</p>
+                            </div>
+                            <div className="away_team">
+                                <p style={{fontSize:"10px"}}>Away</p>
+                                <p><b>Atletico</b></p>
+                                <h3>2</h3>
+                            </div>
                         </div>
                         <div className="fixuture">
-                            <h2> 0  - 2</h2>
-                            <h3>Real  Barca</h3>
-                            <p>28.09.2022</p>
-                            <p><b>Tip:</b> x2</p>
+                            <div className="home_team">
+                                <p style={{fontSize:"10px"}}>Home</p>
+                                <p><b>Real</b></p>
+                                <h3>2</h3>
+                            </div>
+                            <br></br>
+                            <div>
+                                <p>-</p>
+                                <br></br>
+                                <p style={{fontSize:"10px"}}>28.09.2022</p>
+                            </div>
+                            <div className="away_team">
+                                <p style={{fontSize:"10px"}}>Away</p>
+                                <p><b>Atletico</b></p>
+                                <h3>2</h3>
+                            </div>
                         </div>
                         <div className="fixuture">
-                            <h2> 0  - 2</h2>
-                            <h3>Real  Barca</h3>
-                            <p>28.09.2022</p>
-                            <p><b>Tip:</b> x2</p>
+                            <div className="home_team">
+                                <p style={{fontSize:"10px"}}>Home</p>
+                                <p><b>Real</b></p>
+                                <h3>2</h3>
+                            </div>
+                            <br></br>
+                            <div>
+                                <p>-</p>
+                                <br></br>
+                                <p style={{fontSize:"10px"}}>28.09.2022</p>
+                            </div>
+                            <div className="away_team">
+                                <p style={{fontSize:"10px"}}>Away</p>
+                                <p><b>Atletico</b></p>
+                                <h3>2</h3>
+                            </div>
                         </div>
-                         <div className="fixuture">
-                            <h2> 0  - 2</h2>
-                            <h3>Real  Barca</h3>
-                            <p>28.09.2022</p>
-                            <p><b>Tip:</b> x2</p>
-                        </div>
-                         <div className="fixuture">
-                            <h2> 0  - 2</h2>
-                            <h3>Real  Barca</h3>
-                            <p>28.09.2022</p>
-                            <p><b>Tip:</b> x2</p>
-                        </div>
-                         <div className="fixuture">
-                            <h2> 0  - 2</h2>
-                            <h3>Real  Barca</h3>
-                            <p>28.09.2022</p>
-                            <p><b>Tip:</b> x2</p>
-                        </div>
+                        
                     </div>
                </div>
            </div>

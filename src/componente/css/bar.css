@@ -17,7 +17,7 @@ button{
     color: white;
 }
 button:hover{
-    background-color: rgb(221, 221, 221);
+    background-color: rgb(47, 197, 69);
     color: rgb(0, 0, 0);
     height: 50px;
     animation: fadeIn 0.5s;

@@ -21,6 +21,7 @@ export default function Home(){
     }
     else{
         return(
+            
             <section>
                 <Bar/>
                 <ContentHome/>
