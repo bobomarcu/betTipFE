@@ -15,7 +15,7 @@ export default function Bar(){
                     <Link to='/'><button>Home</button></Link>
                 </div>
                 <div className="barRight">
-                    <Link to='/login'><button>Log in</button></Link>
+                    <Link to='/log-in'><button>Log in</button></Link>
                 </div>
             </div>
         )
@@ -28,7 +28,7 @@ export default function Bar(){
                     <Link to='/'><button>Home</button></Link>
                 </div>
                 <div className="barRight">
-                    <Link to='/login'><button>Log in</button></Link>
+                    <Link to='/log-in'><button>Log in</button></Link>
                 </div>
              
             </div>

@@ -1,0 +1,38 @@
+.main{
+
+    background-color: rgb(38, 38, 38);
+    width: 25vw;
+    height: 50vh;
+    border-radius: 10px;
+    padding: 20px;
+
+}
+.main p{
+    color: white;
+  
+}
+.main button{
+    color: white;
+    background-color: rgb(41, 211, 41);
+
+}
+form{
+
+    text-align: center;
+
+
+}
+.home{
+
+    text-decoration: none;
+    color: white;
+    font-size: 8px;
+
+}
+.section{
+
+    display: flex;
+    justify-content: center;
+    padding: 10vh;
+
+}
