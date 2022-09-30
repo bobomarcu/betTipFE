@@ -1,0 +1,71 @@
+.left{
+    height: 84vh;
+    padding: 20px;
+    background-color: rgb(42, 42, 42);
+    width: 16vw;
+    border-radius: 10px;
+    color: white;
+}
+.center{
+
+    text-align: left;
+    width: 50vw;
+    color: white;
+
+}
+.xscroll{
+
+    display: flex;
+    justify-content: space-between;
+    overflow-x: scroll;
+    width: 50vw;
+
+}
+.nextFixuture{
+     padding: 10px;
+     background-color: rgb(38, 38, 38);
+     width: 10vw;
+     border-radius: 10px;
+     margin: 8px;
+}
+.topBets{
+    overflow-y: scroll;
+    height: 50vh;
+
+}
+.TopBetsFixuture{
+    padding: 15px;
+    background-color: rgb(38, 38, 38);
+    border-radius: 10px;
+    margin: 8px;
+}
+.right{
+    background-color: rgb(42, 42, 42);
+    color: white;
+    text-align: left;
+    height: 84vh;
+    width: 18vw;
+    padding: 20px;
+    border-radius: 10px;
+    
+    
+}
+.content{
+    padding: 20px;
+    display: flex;                 
+    justify-content: space-between; 
+}
+.listFixuresRight{
+
+    overflow: scroll;
+    height: 75vh;
+    text-align: center;
+
+}
+.fixuture{
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(23, 23, 23);
+    margin: 10px;
+    border-radius: 10px;
+}

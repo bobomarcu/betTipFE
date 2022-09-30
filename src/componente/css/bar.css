@@ -1,0 +1,28 @@
+.bar{
+    background-color: rgb(42, 42, 42);
+    height: 50px;
+}
+.barLeft{
+    float: left;
+
+}
+.barRight{
+    float: right;
+}
+button{
+    height: 50px;
+    width: 70px;
+    border-style:none ;
+    background-color: transparent;
+    color: white;
+}
+button:hover{
+    background-color: rgb(221, 221, 221);
+    color: rgb(0, 0, 0);
+    height: 50px;
+    animation: fadeIn 0.5s;
+}
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
