@@ -1,10 +1,10 @@
 .main{
 
     background-color: rgb(38, 38, 38);
-    width: 25vw;
-    height: 50vh;
+    width: 20vw;
+    height: 40vh;
     border-radius: 10px;
-    padding: 20px;
+    padding: 40px;
 
 }
 .main p{
@@ -14,6 +14,34 @@
 .main button{
     color: white;
     background-color: rgb(41, 211, 41);
+    height: 4vh;
+    width: 10vw;
+    border-radius: 4px ;
+
+}
+.main button:hover{
+
+    background-color: white;
+    color: rgb(41, 211, 41);
+    height: 4vh;
+    width: 10vw;
+    border-radius: 4px ;
+
+}
+
+.main input{
+
+    background-color: transparent;
+    border-style: solid;
+    border-width: 0px 0px 1px 0px; 
+    color: white;
+    text-align: center;
+    padding: 2px;
+
+}
+.main input:focus{
+
+    outline: none;
 
 }
 form{
